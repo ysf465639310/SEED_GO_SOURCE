@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/L-HeliantHuS/livego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/davecgh/go-spew" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/gwuhaolin/livego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/orcaman/concurrent-map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/pmezard/go-difflib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/satori/go.uuid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/stretchr/testify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seed_go_path/src/github.com/tools/godep" vcs="Git" />
+  </component>
+</project>
